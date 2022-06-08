@@ -329,6 +329,10 @@ i:textures/motel_day/sbox.png:textures/motel_day/sbox-23f884832abd9cfa5370eb7da8
 i:textures/motel_day/sign.png:textures/motel_day/sign-7bd108194ece2cae969ca1f974dcc9f6.png:2462:image/png:1
 i:textures/motel_day/sign_shadow.png:textures/motel_day/sign_shadow-f03aedd2991c418aeb9282e849957a5b.png:521:image/png:1
 i:textures/motel_day/swipe.png:textures/motel_day/swipe-442282077e31f7ca4e336503da372cf8.png:230:image/png:1
+i:textures/motel_day/vinvite.png:textures/motel_day/vinvite-365318280a4beba2d3d7fb97773c79aa.png:6260:image/png:1
+i:textures/motel_day/vshare.png:textures/motel_day/vshare-6eb5418ecfafd90bc5b8292242eab7f7.png:6235:image/png:1
+i:textures/motel_day/vsnd.png:textures/motel_day/vsnd-32e734efa62163db8b647ecffb14fc76.png:8315:image/png:1
+i:textures/motel_day/vsoff.png:textures/motel_day/vsoff-0b0204367cf3949f684ff60d0e8c2209.png:8236:image/png:1
 i:textures/motel_day/wallp.png:textures/motel_day/wallp-8c55aafb0d6809c8ff23f9977fbf359f.png:982:image/png:1
 i:textures/motel_day/window1.png:textures/motel_day/window1-abd9c94845e94ca154186e36b0a7e953.png:19425:image/png:1
 i:textures/motel_day/window2.png:textures/motel_day/window2-9df15736e7838c29681b71b6dee434ef.png:13867:image/png:1

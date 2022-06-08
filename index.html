@@ -14,6 +14,14 @@
      // showFullscreenAd();
 
 
+function vkshare(){
+vkBridge.send("VKWebAppShare",{"link": "vk.com/app8179871"});
+}
+function vkinvite(){
+vkBridge.send("VKWebAppShowInviteBox", {})
+         .then(data => console.log(data.success))
+        .catch(error => console.log(error));
+}
 
 	
       function showFullscreenAd(){
